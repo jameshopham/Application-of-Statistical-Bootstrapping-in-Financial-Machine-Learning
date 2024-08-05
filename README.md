@@ -24,7 +24,7 @@ minute data from 2009 to 2018 according to classifications determined by the tri
 
 ## Project Paper
 Here is a link to my project paper covering an overview of the project background, methods, and results:
-[[https://github.com/jameshopham/Graph-RAG-LLM-Research-Consultant/blob/main/Graph%20Rag%20Project%20Write-Up.pdf](https://github.com/jameshopham/Financial-ML-Bagging/blob/main/Project%20Write-Up.pdf)]
+https://github.com/jameshopham/Financial-ML-Bagging/blob/main/Project%20Write-Up.pdf
 
 ### Built With
 
